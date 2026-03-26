@@ -110,7 +110,7 @@ const Hero = () => {
           className="photo-frame w-40 h-40 md:w-56 md:h-56 animate-float-reverse"
         >
           <img
-            src={hagerImg}
+            src=""
             alt="هاجر"
             className="w-full h-full object-cover"
           />
