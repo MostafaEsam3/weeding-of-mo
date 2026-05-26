@@ -53,7 +53,7 @@ const Footer = () => {
 
         {/* Romantic closing statement */}
         <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 max-w-xl mx-auto leading-relaxed">
-         ده ربنا نجدها نوسه 
+  
           <br />
           <span className="text-gold font-medium">شكراً ليكم   </span>
         </p>
